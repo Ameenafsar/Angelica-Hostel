@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "name": "Angelica Hostel",
+  "location": "https://maps.app.goo.gl/fhhAvgRw46J28ATM8",
+  "rooms": 101,
+  "capacity": 202,
+  "vacant": 61
+}]

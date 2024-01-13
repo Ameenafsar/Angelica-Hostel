@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "6467a0ee36257fce55bac877"
+  },
+  "name": "Ameena Afsar",
+  "admission_no": 366885,
+  "room_no": 1,
+  "batch": 2021,
+  "dept": "SEECS",
+  "course": "CS",
+  "email": "ameenaafsar@gmail.com",
+  "father_name": "Muhammed Afsar",
+  "contact": "9037059932",
+  "address": "Angelica Hostel",
+  "dob": {
+    "$date": "2004-06-08T00:00:00.000Z"
+  },
+  "aadhar_card": "1234567891234",
+  "user": {
+    "$oid": "6467a0ee36257fce55bac875"
+  },
+  "hostel": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "date": {
+    "$date": "2023-05-19T16:16:46.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6467df72c2b3142559d29326"
+  },
+  "name": "June",
+  "admission_no": 368115,
+  "room_no": 2,
+  "batch": 2021,
+  "dept": "seecs",
+  "course": "cs",
+  "email": "june@gmail.com",
+  "father_name": "Ahad",
+  "contact": "03260144411",
+  "address": "kannur",
+  "dob": {
+    "$date": "2023-05-09T00:00:00.000Z"
+  },
+  "aadhar_card": "6110197584215",
+  "user": {
+    "$oid": "6467df72c2b3142559d29324"
+  },
+  "hostel": {
+    "$oid": "645aae56db7005c0dc64fd92"
+  },
+  "date": {
+    "$date": "2023-05-19T20:43:30.844Z"
+  },
+  "__v": 0
+}]
